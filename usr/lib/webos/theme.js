@@ -231,7 +231,7 @@ Webos.require('/usr/lib/webos/config.js', function () {
 	Webos.Theme.current = function() {
 		return Webos.Theme._current || new Webos.Theme(Webos.ConfigFile.get('~/.theme/'+Webos.UserInterface.Booter.current().name()+'/config.xml'));
 	};
-	Webos.Theme._defaultBackground = '/usr/share/images/backgrounds/default.jpg';
+	Webos.Theme._defaultBackground = '/usr/share/images/backgrounds/01_trompo.jpg';
 	Webos.Theme.defaultBackground = function() {
 		return Webos.Theme._defaultBackground;
 	};
