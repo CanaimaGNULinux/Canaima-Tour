@@ -1,5 +1,13 @@
 [
     {
+        "name": "canaima-gnamon",
+        "labels": [
+            "userInterface",
+            "guestInterface"
+        ],  
+        "isDefault": true
+     }, 
+    {
         "name": "gnome-shell",
         "labels": [
             "userInterface",
@@ -53,6 +61,6 @@
             "userInterface",
             "guestInterface"
         ],
-        "isDefault": true
+        "isDefault": false
     }
 ]
