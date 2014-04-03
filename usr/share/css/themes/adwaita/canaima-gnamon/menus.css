@@ -6,7 +6,7 @@ ul.menuwindowheader, .webos-menuwindowheader ul { /* Liste */
 	list-style-type: none; /* on supprime le style par défaut de la liste */
 	list-style-position: inside;
 	line-height: 19px; /* on définit une hauteur pour chaque élément */
-	text-align: center; /* on centre le texte qui se trouve dans la liste */
+	text-align: right; /* on centre le texte qui se trouve dans la liste */
 }
 
 ul.menu ul:empty,
@@ -231,7 +231,7 @@ ul.menu > li > a {
 }
 ul.menu > li.hover {
 	border-bottom: 2px solid #dcdfe2;
-	background: url('usr/share/images/themes/adwaita/menu/shadow.png') center bottom no-repeat;
+	background: url('usr/share/images/themes/adwaita/menu/shadow-gnamon.png') center bottom no-repeat;
 }
 ul.menu > li:hover > a,
 ul.menu > li.hover > a {
