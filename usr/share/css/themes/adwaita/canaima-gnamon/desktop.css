@@ -285,19 +285,20 @@ body {
 }
 #shell .mode li {
 	display: inline-block;
-	color: #888a85;
+	color: #a8a8a8;
 	padding: 5px;
 	font-weight: bold;
 }
 #shell .mode li:hover {
-	color: #bababa;
+	color: #fff;
 }
 #shell .mode li.active {
-	color: black;
-	background-color: #c2c7cd;
-	-moz-border-radius: 4px;
-	-webkit-border-radius: 4px;
-	border-radius: 4px;
+	color: white;
+	background-color: rgba(255, 255, 255, 0.25);
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.5);
 }
 
 #shell .search-entry {
@@ -306,22 +307,22 @@ body {
 	padding: 5px 15px;
 	font-size: 1.2em;
 	color: #7f7f7f;
-	background-color: rgba(0, 0, 0, 0.1);
-	border: 2px solid rgba(255, 255, 255, 0.1);
-	-moz-border-radius: 14px;
-	-webkit-border-radius: 14px;
-	border-radius: 14px;
+	background-color: rgba(0, 0, 0, 0.5);
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
 	outline: none;
 	transition-duration: 0.5s;
 }
 #shell .search-entry.active {
 	border-color: #888a85;
-	background-color: #dddddd;
-	color: #404040;
-	box-shadow: inset 0 3px 6px #696a69;
+	background-color: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	box-shadow: inset 0 1px 1px #696a69;
 }
 #shell .search-entry:focus {
-	font-weight: bold;
+	font-weight: normal;
 }
 #shell .search-entry::-webkit-input-placeholder {
 	font-weight: normal;
@@ -352,7 +353,7 @@ body {
 #shell .shortcuts .filters {
 	list-style: none;
 	margin: 4px 15px;
-	padding: 0;
+	padding: 0px;
 	float: right;
 	width: 250px;
 	height: 100%;
@@ -362,10 +363,19 @@ body {
 	font-weight: bold;
 	font-size: 14px;
 	color: #a8a8a8;
+	padding: 3px 3px;
 }
-#shell .shortcuts .filters li:hover,
-#shell .shortcuts .filters li.active {
+#shell .shortcuts .filters li:hover{
 	color: white;
+}
+#shell .shortcuts .filters li.active {
+	background-color: rgba(255, 255, 255, 0.25);
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.5);
+	color: white;
+	padding: 5px 5px;
 }
 #shell .shortcuts .list {
 	height: 100%;

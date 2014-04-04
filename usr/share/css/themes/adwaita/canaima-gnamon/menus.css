@@ -230,8 +230,9 @@ ul.menu > li > a {
 	border-bottom: none;
 }
 ul.menu > li.hover {
-	border-bottom: 2px solid #dcdfe2;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 	background: url('usr/share/images/themes/adwaita/menu/shadow-gnamon.png') center bottom no-repeat;
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.5);
 }
 ul.menu > li:hover > a,
 ul.menu > li.hover > a {
