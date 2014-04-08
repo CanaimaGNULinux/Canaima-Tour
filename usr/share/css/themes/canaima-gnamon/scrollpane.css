@@ -185,7 +185,7 @@
 
 #shell .webos-scrollpane .vertical-bar
 {
-	width: 16px;
+	width: 8px;
 }
 
 #shell .webos-scrollpane .horizontal-bar
@@ -194,8 +194,8 @@
 }
 #shell .webos-scrollpane .background
 {
-	background: #080808;
-	border: 1px solid #2d2d2d;
+	background: rgba(0, 0, 0, 0.3);
+	/*border: 1px solid #2d2d2d;*/
 	-moz-border-radius: 7px;
 	-webkit-border-radius: 7px;
 	border-radius: 7px;
@@ -205,15 +205,15 @@
 }
 #shell .webos-scrollpane .drag
 {
-	background: #252525;
-	border: 1px solid #080808;
+	background: rgba(255, 255, 255, 0.3);
+	border: 1px solid rgba(0, 0, 0, 0.3);
 	-moz-border-radius: 7px;
 	-webkit-border-radius: 7px;
 	border-radius: 7px;
 }
 #shell .webos-scrollpane .drag:hover, #shell .webos-scrollpane .dragging .drag
 {
-	background: #292929;
+	background: rgba(255, 255, 255, 0.4);
 }
 #shell .webos-scrollpane .corner {
 	background-color: transparent;
@@ -221,25 +221,25 @@
 
 /* Webkit */
 #shell ::-webkit-scrollbar {
-	width: 16px;
+	width: 8px;
 }
 #shell ::-webkit-scrollbar-button {
 	display: none;
 }
 #shell ::-webkit-scrollbar-track {
-	background: #080808;
-	border: 1px solid #2d2d2d;
+	background: rgba(0, 0, 0, 0.3);
+	/*border: 1px solid #2d2d2d;*/
 	-moz-border-radius: 7px;
 	-webkit-border-radius: 7px;
 	border-radius: 7px;
 }
 #shell ::-webkit-scrollbar-thumb {
-	background: #252525;
-	border: 1px solid #080808;
+	background: rgba(255, 255, 255, 0.3);
+	border: 1px solid rgba(0, 0, 0, 0.3);
 	-moz-border-radius: 7px;
 	-webkit-border-radius: 7px;
 	border-radius: 7px;
 }
 #shell ::-webkit-scrollbar-thumb:hover {
-	background: #292929;
+	background: rgba(255, 255, 255, 0.4);
 }
