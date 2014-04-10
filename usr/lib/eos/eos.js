@@ -13,7 +13,7 @@
 			
 			this.window = $.w.window.main({
 				title: t.get('Image viewer'),
-				icon: new W.Icon('applications/eos'),
+				icon: new W.Icon('apps/eos'),
 				width: 500,
 				height: 300,
 				stylesheet: '/usr/share/css/eos/main.css'
@@ -263,7 +263,7 @@
 					version: '1.3.2',
 					description: t.get('GNOME\'s image viewer.'),
 					author: '$imon',
-					icon: new W.Icon('applications/eos')
+					icon: new W.Icon('apps/eos')
 				}).window('open');
 			};
 			

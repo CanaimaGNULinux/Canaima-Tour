@@ -7,7 +7,7 @@
 	<attribute name="description" lang="fr_FR" value="Afficher des images"/>
 	<attribute name="description" lang="es_ES" value="Mostrar imágenes"/>
 	<attribute name="command" value="eos"/>
-	<attribute name="icon" value="applications/eos"/>
+	<attribute name="icon" value="apps/eos"/>
 	<attribute name="category" value="accessories"/>
 	<attribute name="open" value="png,jpeg,jpg,gif"/>
 	<attribute name="openMimeTypes" value="image/*"/>
