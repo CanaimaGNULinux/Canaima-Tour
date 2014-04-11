@@ -20,7 +20,7 @@ Webos.require(dependencies, function() {
 			//Define the window
 			this._window = $.w.window.main({
 				title: t.get('Archive manager'),
-				icon: new W.Icon('applications/file-roller'),
+				icon: new W.Icon('apps/file-roller'),
 				width: 400,
 				height: 250
 			});
@@ -452,7 +452,7 @@ Webos.require(dependencies, function() {
 				version: '0.2',
 				description: t.get('An archive manager for GNOME.'),
 				author: '$imon',
-				icon: 'applications/file-roller'
+				icon: 'apps/file-roller'
 			}).window('open');
 		}
 	};
