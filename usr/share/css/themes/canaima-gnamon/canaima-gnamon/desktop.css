@@ -3,7 +3,7 @@
 
 /* UBUNTU CURSORS */
 * {
-	cursor: url("usr/share/images/themes/adwaita/cursors/default.png"), default;
+	cursor: url("usr/share/images/themes/canaima-gnamon/cursors/default.png"), default;
 }
 p, textarea, input[type="text"], input[type="password"],
 *::selection, *::-moz-selection, *::-webkit-selection, *::-o-selection {
@@ -14,7 +14,7 @@ a, a * {
 }
 
 .cursor-default,.cursor-default * {
-	cursor: url("usr/share/images/themes/adwaita/cursors/default.png"), default;
+	cursor: url("usr/share/images/themes/canaima-gnamon/cursors/default.png"), default;
 }
 
 .cursor-text, .cursor-text * {
