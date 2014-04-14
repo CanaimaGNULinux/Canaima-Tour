@@ -16,7 +16,7 @@
 		_$iframe: $(),
 		_$configForm: $(),
 		_config: {
-			homepage: 'https://www.duckduckgo.com/?kd=-1&kn=-1',
+			homepage: 'http://canaima.softwarelibre.gob.ve/',
 			enableProxy: false,
 			proxyUrl: '../phproxy-improved/',
 			proxyFlags: {

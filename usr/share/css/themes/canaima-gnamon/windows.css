@@ -32,7 +32,7 @@
 
 /* BARRE DU HEADER */
 .webos-window .header .top {
-	background-color: #ededed;
+	background-color: #f1efe3;
 	-moz-border-radius: 4px 4px 0px 0px;
 	-webkit-border-radius: 4px 4px 0px 0px;
 	border-radius: 4px 4px 0px 0px;
@@ -150,7 +150,7 @@
 
 /* CONTENU DE LA FENETRE */
 .webos-window .content {
-	background-color: #ededed;
+	background-color: #ece9d8;
 	color: #4c4c4c;
 	overflow: auto;
 	min-width: 10px;
@@ -197,10 +197,10 @@
 
 /* HEADERS SPECIFIQUES */
 .webos-window .header .header-specific {
-	background-color: rgb(237, 237, 237);
+	background-color: #e0dcc7;
 }
 .webos-window .header .header-specific .webos-menuwindowheader {
-	background-color: #ededed;
+	background-color: #e7e4d0;
 	color: #303638;
 	height: 25px;
 	margin: 0;
