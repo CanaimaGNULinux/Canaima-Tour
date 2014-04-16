@@ -136,8 +136,8 @@ input[type="submit"][disabled]:active,
 }
 .webos-list table tbody tr.active, .webos-list table tbody tr:active {
 	color: white;
-	background-color: #4a90d9;
-	border: 1px solid #4a90d9;
+	background-color: #a0c25a;
+	border: 1px solid #a0c25a;
 }
 .webos-list .webos-button-container {
 	float: none;
