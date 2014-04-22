@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcut>
+	<attribute name="title" value="Canaima Tour"/>
+	<attribute name="title" lang="fr_FR" value="Canaima Tour"/>
+	<attribute name="description" value="Canaima Tour"/>
+	<attribute name="description" lang="fr_FR" value="Canaima Tour"/>
+	<attribute name="command" value="canaima-tour"/>
+	<attribute name="icon" value="actions/canaima"/>
+	<attribute name="menu" value="applications"/>
+	<attribute name="category" value="accessories"/>
+</shortcut>
