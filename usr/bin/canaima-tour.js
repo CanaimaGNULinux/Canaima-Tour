@@ -94,10 +94,10 @@ Webos.require([], function () {
 				}
 			});
 			$win.find('.slide-music .btn-music').click(function () {
-				W.Cmd.execute('gnome-music');
+				W.Cmd.execute('web-browser');
 			});
 			$win.find('.slide-interfaces .btn-interfaces').click(function () {
-				W.Cmd.execute('cameleon');
+				W.Cmd.execute('writer');
 			});
 			$win.find('.slide-cloud .btn-cloud').click(function () {
 				W.Cmd.execute('nautilus-mounter');
