@@ -100,7 +100,7 @@ Webos.require([], function () {
 				W.Cmd.execute('writer');
 			});
 			$win.find('.slide-cloud .btn-cloud').click(function () {
-				W.Cmd.execute('nautilus-mounter');
+				W.Cmd.execute('software-center');
 			});
 			$win.find('.slide-thanks .btn-register').click(function () {
 				W.Cmd.execute('gnome-register');
