@@ -1257,7 +1257,7 @@ Webos.require([
 							$.w.notification({
 								title: t.get('Welcome to ${webos} !', { webos: Webos.name }),
 								message: t.get('To access your documents please login.'),
-								icon: '/usr/share/images/distributor/logo-48.png',
+								icon: '/usr/share/images/distributor/canaima-48.png',
 								widgets: notificationsButtons
 							});
 						});

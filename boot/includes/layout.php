@@ -5,7 +5,7 @@
 <!--[if IE 9 ]><html class="ie ie9"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--><html> <!--<![endif]-->
 <head>
-	<title>Symbiose</title>
+	<title>Canaima Tour</title>
 	<meta charset="utf-8" />
 	<meta name="description" content="Symbiose, the free and open-source webos." />
 	<meta name="author" content="emersion" />
@@ -17,7 +17,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
 	<!-- FAVICONS -->
-	<link rel="shortcut icon" href="usr/share/images/distributor/icons/favicon.ico" />
+	<link rel="shortcut icon" href="usr/share/images/distributor/icons/canaima-logo.ico" />
 	<link rel="apple-touch-icon" href="usr/share/images/distributor/icons/apple-touch-icon.png" />
 	<link rel="apple-touch-icon" sizes="72x72" href="usr/share/images/distributor/icons/apple-touch-icon-72x72.png" />
 	<link rel="apple-touch-icon" sizes="114x114" href="usr/share/images/distributor/icons/apple-touch-icon-114x114.png" />
