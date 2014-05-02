@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcut>
+	<attribute name="title" value="Orca"/>
+	<attribute name="title" lang="fr_FR" value="Orca"/>
+	<attribute name="title" lang="es_ES" value="Orca"/>
+	<attribute name="description" value="Accesibilidad"/>
+	<attribute name="description" lang="fr_FR" value="Accesibilidad"/>
+	<attribute name="description" lang="es_ES" value="Accesibilidad"/>
+	<attribute name="command" value="orca"/>
+	<attribute name="icon" value="apps/orca"/>
+	<attribute name="category" value="preferences"/>
+	<attribute name="menu" value="system"/>
+</shortcut>

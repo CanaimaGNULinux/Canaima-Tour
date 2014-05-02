@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcut>
+	<attribute name="title" value="Jockey"/>
+	<attribute name="title" lang="fr_FR" value="Jockey"/>
+	<attribute name="title" lang="es_ES" value="Jockey"/>
+	<attribute name="description" value="Dynamic background"/>
+	<attribute name="description" lang="fr_FR" value="Le pilote du périphérique"/>
+	<attribute name="description" lang="es_ES" value="Controlador de dispositivos"/>
+	<attribute name="command" value="jockey"/>
+	<attribute name="icon" value="apps/jockey"/>
+	<attribute name="category" value="preferences"/>
+	<attribute name="menu" value="system"/>
+</shortcut>

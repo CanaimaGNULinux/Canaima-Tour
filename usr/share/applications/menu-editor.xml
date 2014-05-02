@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcut>
+	<attribute name="title" value="Menu editor"/>
+	<attribute name="title" lang="fr_FR" value="Menu editor"/>
+	<attribute name="title" lang="es_ES" value="Menu editor"/>
+	<attribute name="description" value="Menu editor"/>
+	<attribute name="description" lang="fr_FR" value="Menu editor"/>
+	<attribute name="description" lang="es_ES" value="Menu editor"/>
+	<attribute name="command" value="menu-editor"/>
+	<attribute name="icon" value="apps/menu-editor"/>
+	<attribute name="category" value="preferences"/>
+	<attribute name="menu" value="system"/>
+</shortcut>

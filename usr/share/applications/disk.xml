@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcut>
+	<attribute name="title" value="disk"/>
+	<attribute name="title" lang="fr_FR" value="Analyseur de disque"/>
+	<attribute name="title" lang="es_ES" value="Analizador de disco"/>
+	<attribute name="description" value="Disk analyzer"/>
+	<attribute name="description" lang="fr_FR" value="Analyseur de disque"/>
+	<attribute name="description" lang="es_ES" value="Analizador de disco"/>
+	<attribute name="command" value="disk"/>
+	<attribute name="icon" value="apps/baobab"/>
+	<attribute name="category" value="preferences"/>
+	<attribute name="menu" value="system"/>
+</shortcut>

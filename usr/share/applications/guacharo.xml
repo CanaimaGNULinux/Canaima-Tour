@@ -4,7 +4,7 @@
 	<attribute name="title" lang="fr_FR" value="Guacharo"/>
 	<attribute name="description" value="Guachro"/>
 	<attribute name="description" lang="fr_FR" value="Guacharo"/>
-	<attribute name="command" value="Guacharo"/>
+	<attribute name="command" value="guacharo"/>
 	<attribute name="icon" value="apps/guacharo"/>
 	<attribute name="menu" value="applications"/>
 	<attribute name="category" value="internet"/>

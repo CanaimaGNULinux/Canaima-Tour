@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcut>
+	<attribute name="title" value="dconf"/>
+	<attribute name="title" lang="fr_FR" value="Éditeur de configuration"/>
+	<attribute name="title" lang="es_ES" value="dconf configuration"/>
+	<attribute name="description" value="Passwords and Keys"/>
+	<attribute name="description" lang="fr_FR" value="Éditeur de configuration"/>
+	<attribute name="description" lang="es_ES" value="Configuration Editor"/>
+	<attribute name="command" value="dconf"/>
+	<attribute name="icon" value="apps/control-center2"/>
+	<attribute name="category" value="preferences"/>
+	<attribute name="menu" value="system"/>
+</shortcut>

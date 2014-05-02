@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcut>
+	<attribute name="title" value="Conexion"/>
+	<attribute name="title" lang="fr_FR" value="Conexion"/>
+	<attribute name="title" lang="es_ES" value="Conexion"/>
+	<attribute name="description" value="Conexion of red"/>
+	<attribute name="description" lang="fr_FR" value="Conexion of red"/>
+	<attribute name="description" lang="es_ES" value="Conexion de red"/>
+	<attribute name="command" value="conexion"/>
+	<attribute name="icon" value="apps/network-workgroup"/>
+	<attribute name="category" value="preferences"/>
+	<attribute name="menu" value="system"/>
+</shortcut>

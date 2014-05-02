@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcut>
+	<attribute name="title" value="Help"/>
+	<attribute name="title" lang="fr_FR" value="Aider"/>
+	<attribute name="title" lang="es_ES" value="Ayuda"/>
+	<attribute name="description" value="Canaima Tour"/>
+	<attribute name="description" lang="fr_FR" value="Aider gnome"/>
+	<attribute name="description" lang="es_ES" value="Ayuda gnome"/>
+	<attribute name="command" value="help"/>
+	<attribute name="icon" value="apps/help"/>
+	<attribute name="menu" value="applications"/>
+	<attribute name="category" value="accessories"/>
+</shortcut>

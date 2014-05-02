@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcut>
+	<attribute name="title" value="Dynamic background"/>
+	<attribute name="title" lang="fr_FR" value="Fond dynamique"/>
+	<attribute name="title" lang="es_ES" value="Fondo Dinámicos"/>
+	<attribute name="description" value="Dynamic background"/>
+	<attribute name="description" lang="fr_FR" value="Fond dynamique"/>
+	<attribute name="description" lang="es_ES" value="Fondo Dinámicos"/>
+	<attribute name="command" value="canaima-fondo-dinamico"/>
+	<attribute name="icon" value="apps/canaima-fondos-dinamicos"/>
+	<attribute name="category" value="preferences"/>
+	<attribute name="menu" value="system"/>
+</shortcut>

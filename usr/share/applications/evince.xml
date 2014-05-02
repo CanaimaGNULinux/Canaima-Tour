@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcut>
+	<attribute name="title" value="Visor de documentos"/>
+	<attribute name="title" lang="fr_FR" value="Document Viewer"/>
+	<attribute name="description" value="Visor de documentos"/>
+	<attribute name="description" lang="fr_FR" value="Document Viewer"/>
+	<attribute name="command" value="evince"/>
+	<attribute name="icon" value="apps/evince"/>
+	<attribute name="menu" value="applications"/>
+	<attribute name="category" value="accessories"/>
+</shortcut>
