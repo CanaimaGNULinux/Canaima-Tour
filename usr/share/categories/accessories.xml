@@ -2,6 +2,7 @@
 <shortcut>
 	<attribute name="title" value="Accessories"/>
 	<attribute name="title" lang="fr_FR" value="Accessoires"/>
+	<attribute name="title" lang="es_ES" value="Accesorios"/>
 	<attribute name="name" value="accessories"/>
 	<attribute name="description" value="Accessories"/>
 	<attribute name="description" lang="fr_FR" value="Accessoires"/>

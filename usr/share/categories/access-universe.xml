@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcut>
+	<attribute name="title" value="Access Universe"/>
+	<attribute name="title" lang="fr_FR" value="Accès Univers"/>
+	<attribute name="title" lang="es_ES" value="Acceso Universal"/>
+	<attribute name="name" value="access-universe"/>
+	<attribute name="description" value="Access Universe"/>
+	<attribute name="description" lang="fr_FR" value="Accès Univers"/>
+	<attribute name="icon" value="/usr/share/icons/categories/23/accessories.png"/>
+	<attribute name="menu" value="applications"/>
+</shortcut>

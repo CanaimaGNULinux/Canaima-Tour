@@ -2,6 +2,7 @@
 <shortcut>
 	<attribute name="title" value="Sound and video"/>
 	<attribute name="title" lang="fr_FR" value="Son et vidéo"/>
+	<attribute name="title" lang="es_ES" value="Sonido y vídeo"/>
 	<attribute name="name" value="soundandvideo"/>
 	<attribute name="description" value="Sound and video"/>
 	<attribute name="description" lang="fr_FR" value="Son et vidéo"/>

@@ -2,6 +2,7 @@
 <shortcut>
 	<attribute name="title" value="Preferences"/>
 	<attribute name="title" lang="fr_FR" value="Préférences"/>
+	<attribute name="title" lang="es_ES" value="Herramientas del sistema"/>
 	<attribute name="name" value="preferences"/>
 	<attribute name="description" value="Preferences"/>
 	<attribute name="description" lang="fr_FR" value="Préférences"/>

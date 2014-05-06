@@ -8,6 +8,6 @@
 	<attribute name="description" lang="es_ES" value="Accesibilidad"/>
 	<attribute name="command" value="orca"/>
 	<attribute name="icon" value="apps/orca"/>
-	<attribute name="category" value="preferences"/>
+	<attribute name="category" value="access-universe"/>
 	<attribute name="menu" value="system"/>
 </shortcut>

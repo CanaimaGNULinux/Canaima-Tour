@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcut>
+	<attribute name="title" value="GNU Paint"/>
+	<attribute name="title" lang="fr_FR" value="GNU Paint"/>
+	<attribute name="title" lang="es_ES" value="GNU Paint"/>
+	<attribute name="description" value="GNU Paint"/>
+	<attribute name="description" lang="fr_FR" value="GNU Paint"/>
+	<attribute name="description" lang="es_ES" value="GNU Paint"/>
+	<attribute name="command" value="gpaint"/>
+	<attribute name="icon" value="apps/gpaint"/>
+	<attribute name="menu" value="applications"/>
+	<attribute name="category" value="graphics"/>
+</shortcut>
